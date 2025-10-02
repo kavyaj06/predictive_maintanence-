@@ -1,0 +1,67 @@
+Vehicle Engine Sample Data - BAD Condition
+==========================================
+
+This file contains sample data points that represent engines in BAD condition.
+Use these values to test the OBD prediction model.
+
+Sample 1 - Bad Engine (Low RPM, High Temps)
+-------------------------------------------
+Engine rpm: 500
+Lub oil pressure: 1.5
+Fuel pressure: 20.0
+Coolant pressure: 0.5
+lub oil temp: 95.0
+Coolant temp: 110.0
+
+Sample 2 - Overheating Engine
+-----------------------------
+Engine rpm: 800
+Lub oil pressure: 2.0
+Fuel pressure: 25.0
+Coolant pressure: 0.8
+lub oil temp: 105.0
+Coolant temp: 120.0
+
+Sample 3 - Low Oil Pressure
+---------------------------
+Engine rpm: 1200
+Lub oil pressure: 1.0
+Fuel pressure: 30.0
+Coolant pressure: 0.6
+lub oil temp: 100.0
+Coolant temp: 115.0
+
+Sample 4 - Fuel System Issues
+-----------------------------
+Engine rpm: 600
+Lub oil pressure: 1.8
+Fuel pressure: 15.0
+Coolant pressure: 0.4
+lub oil temp: 98.0
+Coolant temp: 108.0
+
+Sample 5 - Multiple System Failure
+----------------------------------
+Engine rpm: 400
+Lub oil pressure: 0.8
+Fuel pressure: 12.0
+Coolant pressure: 0.3
+lub oil temp: 110.0
+Coolant temp: 125.0
+
+Sample 6 - Cooling System Failure
+---------------------------------
+Engine rpm: 900
+Lub oil pressure: 2.2
+Fuel pressure: 28.0
+Coolant pressure: 0.2
+lub oil temp: 102.0
+Coolant temp: 130.0
+
+Warning Signs in Bad Engines:
+- Low RPM (below 1000 often indicates problems)
+- Low oil pressure (below 2.0 is concerning)
+- Low fuel pressure (below 30.0 may indicate fuel pump issues)
+- Low coolant pressure (below 1.0 indicates leaks or pump failure)
+- High oil temperature (above 100°C indicates overheating)
+- High coolant temperature (above 105°C indicates cooling problems)
