@@ -1,0 +1,56 @@
+Vehicle Engine Sample Data - GOOD Condition
+===========================================
+
+This file contains sample data points that represent engines in GOOD condition.
+Use these values to test the OBD prediction model.
+
+Sample 1 - Good Engine (Confidence: 52.5%)
+------------------------------------------
+Engine rpm: 2200
+Lub oil pressure: 3.2
+Fuel pressure: 45.0
+Coolant pressure: 1.1
+lub oil temp: 85.0
+Coolant temp: 90.0
+
+Sample 2 - Very Good Engine (Alternative)
+-----------------------------------------
+Engine rpm: 2000
+Lub oil pressure: 4.0
+Fuel pressure: 50.0
+Coolant pressure: 1.5
+lub oil temp: 80.0
+Coolant temp: 85.0
+
+Sample 3 - Optimal Engine Performance
+------------------------------------
+Engine rpm: 2500
+Lub oil pressure: 3.8
+Fuel pressure: 48.0
+Coolant pressure: 1.3
+lub oil temp: 82.0
+Coolant temp: 88.0
+
+Sample 4 - Highway Cruising
+---------------------------
+Engine rpm: 1800
+Lub oil pressure: 3.5
+Fuel pressure: 42.0
+Coolant pressure: 1.2
+lub oil temp: 88.0
+Coolant temp: 92.0
+
+Sample 5 - City Driving
+-----------------------
+Engine rpm: 1500
+Lub oil pressure: 3.0
+Fuel pressure: 38.0
+Coolant pressure: 1.0
+lub oil temp: 90.0
+Coolant temp: 95.0
+
+Notes:
+- All values are within normal operating ranges
+- Good engines typically have stable pressures and temperatures
+- RPM varies based on driving conditions
+- Oil and coolant temperatures should be within manufacturer specifications
